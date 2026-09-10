@@ -1,6 +1,6 @@
 = Glossary/Terminologies
 :page-languages: [en, de, es, fr, ja, pt, zh]
-:revdate: 26-12-2025
+:revdate: 2026-09-10
 :page-revdate: {revdate}
 
 * <<attachreattach,Adjuntar/Readjuntar>>

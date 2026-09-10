@@ -1,6 +1,6 @@
 = Introducción
 :page-languages: [en, de, es, fr, ja, pt, zh]
-:revdate: 27/06/2025
+:revdate: 2026-09-10
 :page-revdate: {revdate}
 
 {longhorn-product-name-tm} es un sistema de almacenamiento distribuido en bloques ligero, fiable y fácil de usar para Kubernetes.
