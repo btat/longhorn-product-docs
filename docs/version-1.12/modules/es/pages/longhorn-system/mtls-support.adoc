@@ -1,6 +1,6 @@
 = Soporte de TLS mutuo (mTLS)
 :page-languages: [en, de, es, fr, ja, pt, zh]
-:revdate: 12-07-2025
+:revdate: 2026-09-10
 :page-revdate: {revdate}
 :doctype: book
 :current-version: {page-component-version}
